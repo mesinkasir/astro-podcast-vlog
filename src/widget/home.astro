@@ -1,0 +1,11 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import { SITE_TITLE, SITE_DESCRIPTION, SITE_IMAGE, SITE_GST, SITE_ICON, SITE_AUTHOR, SITE_DEVELOPER, SITE_HOST, SITE_ROBOTS, SITE_REPO, SITE_FACEBOOK, SITE_TWITTER,SITE_YOUTUBE, SITE_VIDEO,SITE_IDE,SITE_TECH } from '../config';
+---
+<!DOCTYPE html>
+<html lang="id">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} image={SITE_IMAGE} image={SITE_IMAGE} gst={SITE_GST} video={SITE_VIDEO}
+		icon={SITE_ICON} host={SITE_HOST} author={SITE_AUTHOR} developer={SITE_DEVELOPER} youtube={SITE_YOUTUBE} facebook={SITE_FACEBOOK} twitter={SITE_TWITTER} repo={SITE_REPO} robots={SITE_ROBOTS} ide={SITE_IDE} tech={SITE_TECH}/>
+	</head>
+	<body>

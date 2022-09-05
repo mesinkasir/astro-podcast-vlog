@@ -1,0 +1,10 @@
+---
+const today = new Date();
+import { SITE_TITLE } from '../config';
+import { host,hostlink,code,codelink,generator,generatorlink,dev,devlink,git,gitlink,power,live,repo,built,develop } from '../data/support';
+---
+<footer class="slim">
+	<p>&copy; {today.getFullYear()} <a href="/">{SITE_TITLE}</a> <br/>{power} <a href={hostlink}>{host}</a> {live} <a href={codelink}>{code}</a> {repo} <a href={gitlink}>{git}</a><br/>{built} <a href={generatorlink}>{generator}</a> | {develop} <a href={devlink}>{dev}</a></p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,20 @@
+---
+import HeaderLink from './HeaderLink.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../config';
+import { menu1,menu2,menu3,menu1link,menu2link,menu3link } from '../data/nav';
+---
+
+<header>
+	<h1 class="header">
+	<a href="/">
+		{SITE_TITLE}
+	</a></h1>
+	<h2 class="slim">{SITE_DESCRIPTION}</h2>
+	<hr/>
+	<nav>
+		<HeaderLink href={menu1link}>{menu1}</HeaderLink>
+		<HeaderLink href={menu2link}>{menu2}</HeaderLink>
+		<HeaderLink href={menu3link}>{menu3}</HeaderLink>
+	</nav>
+</header>
+<hr/>

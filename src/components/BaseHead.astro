@@ -1,0 +1,58 @@
+---
+import '../styles/global.css';
+
+export interface Props {
+	title: string;
+	description: string;
+	gst:string;
+	icon:string;
+	repo:string;
+	author:string;
+	developer:string;
+	host:string;
+	youtubide: string;
+	robots:string;
+	tech:string;
+	ide:string;
+	image: string;
+	video: string;
+	facebook:string;
+	twitter: string;
+	youtube: string;
+	video: string;
+}
+
+const { title, description,gst, image,icon,repo,author,developer,host,robots,video,youtube,facebook,twitter,ide,tech } = Astro.props;
+---
+<meta charset="utf-8" />
+<meta name="google-site-verification" content={gst} />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>{title}</title>
+<meta name="title" content={title} />
+<meta name="description" content={description} />
+<meta property="og:type" content="website" />
+<meta property='facebook:author' content={facebook}/>
+<meta property="og:url" content={Astro.url} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={image} />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property='twitter:author' content={twitter}/>
+<meta property="twitter:url" content={Astro.url} />
+<meta property="twitter:title" content={title} />
+<meta property="twitter:description" content={description} />
+<meta property="twitter:image" content={image} />
+<meta property="youtube:url" content={Astro.url} />
+<meta property='youtube:chanel' content={youtube}/>
+<meta property="youtube:title" content={title} />
+<meta property="youtube:description" content={description} />
+<meta property="youtube:video" content={video} />
+<meta name="generator" content={Astro.generator} />
+<meta name="host" content={host} />
+<meta name="IDE" content={ide} />
+<meta name="technology" content={tech} />
+<meta name="repository" content={repo} />
+<meta name="author" content={author} />
+<meta name="developer" content={developer} />
+<meta name='robots' content={robots}/>
+<link rel="icon" type="image/svg+xml" href={icon} />

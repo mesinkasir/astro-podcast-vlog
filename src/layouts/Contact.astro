@@ -1,0 +1,35 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_IMAGE,SITE_GST,SITE_ICON,SITE_AUTHOR,SITE_DEVELOPER,SITE_HOST,SITE_ROBOTS,SITE_REPO,SITE_FACEBOOK,SITE_TWITTER,SITE_YOUTUBE,SITE_IDE,SITE_TECH } from '../config';
+
+const {
+	content: { title, description, url, video,wa,was,chat,call,phone,tel,mail,sent,gmail,download,link },
+} = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="id">
+	<head>
+		<BaseHead title={title} description={description} image={SITE_IMAGE} image={SITE_IMAGE} gst={SITE_GST} video={video}
+		icon={SITE_ICON} host={SITE_HOST} author={SITE_AUTHOR} developer={SITE_DEVELOPER} youtube={SITE_YOUTUBE} facebook={SITE_FACEBOOK} twitter={SITE_TWITTER} repo={SITE_REPO} robots={SITE_ROBOTS} ide={SITE_IDE} tech={SITE_TECH}/>
+	</head>
+
+	<body>
+		<Header />
+		<main>
+			<article>
+				<h3 class="title"><a href={url}>{title}</a></h3>
+				<h4>{description}</h4>
+		<div class="video">
+		<iframe src={video} title={description}/></iframe>
+		</div>
+				<ul>
+        <li>{wa} <a href={chat}>{was}</a></li>
+        <li>{call} <a href={tel}>{phone}</a></li>
+        <li>{mail} <a href={gmail}>{sent}</a></li>
+        </ul>
+        <p><a href={link}>{download}</a></p>
+			</article>
+		</main>
+<Footer />
