@@ -1,5 +1,5 @@
 export const title = 'Selamat datang di software resto web app';
-export const desc =
+export const description =
   'Solusi terbaik dalam penggunaan program software restoran aplikasi cafe rumah makan dalam bekerja dengan offline maupun online mode';
 export const intro =
   'Ini restoran app terbaik untuk digunakan dalam menunjang bisnis usaha kuliner , bukan hanya fitur yang lengkap dan modules yang modern tetapi juga kita bisa bebas menentukan penggunaan mode apa yang kita inginkan, misal nya penggunaan offline mode dalam bekerja dengan tidak membutuhkan koneksi internet dan dalam kebutuhan pembagian divisi kita dapat menggunakan piranti nirkabel alternatif terbaik pengganti kabel lan dalam transmisi data secara offline mode, maupun kebutuhan berkerja secara online hybrid cloud mode untuk kebutuhan online mode secara real time bekerja dengan berbagai divisi, dengan skema konsep yang ada maka kita dapat dengan mudah memilih mana system yang kita inginkan dan disesuaikan dengan kebutuhan usaha bisnis kuliner.';
