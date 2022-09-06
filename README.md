@@ -16,7 +16,7 @@ Run demo 🚀 [https://softwareresto.web.app](https://softwareresto.web.app/)
 
 Develope by 👩🏻‍🚀 [https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll](https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll)
 
-Documentation [https://www.hockeycomputindo.com/2022/09/new-podcast-vlog-web-template-free.html](https://www.hockeycomputindo.com/2022/09/new-podcast-vlog-web-template-free.html)
+Documentation ✍️ [https://www.hockeycomputindo.com/2022/09/new-podcast-vlog-web-template-free.html](https://www.hockeycomputindo.com/2022/09/new-podcast-vlog-web-template-free.html)
 
 ---
 
@@ -31,6 +31,6 @@ Run demo 🚀 [https://softwareresto.web.app](https://softwareresto.web.app/)
 
 Develope by 👩🏻‍🚀 [https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll](https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll)
 
-Documentation [https://www.hockeycomputindo.com/2022/09/new-podcast-vlog-web-template-free.html](https://www.hockeycomputindo.com/2022/09/new-podcast-vlog-web-template-free.html)
+Documentation ✍️ [https://www.hockeycomputindo.com/2022/09/new-podcast-vlog-web-template-free.html](https://www.hockeycomputindo.com/2022/09/new-podcast-vlog-web-template-free.html)
 
 Video 📽️ [https://www.youtube.com/watch?v=nTRBVl0CgFQ](https://www.youtube.com/watch?v=nTRBVl0CgFQ)
