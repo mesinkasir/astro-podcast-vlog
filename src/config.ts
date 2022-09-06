@@ -1,7 +1,7 @@
 export const SITE_TITLE = 'Software Resto 🍱';
 export const SITE_DESCRIPTION =
   ' Solusi program restoran, aplikasi restoran cafe rumah makan, mesin kasir restoran lengkap waiters kasir kitchen admin';
-export const SITE_GST = 'google';
+export const SITE_GST = 'fgCvUavHPC4PNIsCzIJ7u8odSISCCgop6YfhdfOGSX0';
 export const SITE_IMAGE =
   'https://programrestoran.web.app/img/aplikasi%20restoran.webp';
 export const SITE_ICON = 'https://astro.build/favicon.svg';
@@ -12,7 +12,7 @@ export const SITE_HOST = 'firebase';
 export const SITE_ROBOTS = 'index, follow';
 export const SITE_IDE = 'stackblitz';
 export const SITE_TECH = 'typescript,javascript,markdown,mdx,css,html';
-export const SITE_REPO = 'https://github.com/mesinkasir/';
+export const SITE_REPO = 'https://github.com/mesinkasir/astro-podcast-vlog';
 export const SITE_FACEBOOK = 'https://facebook.com/mesinkasircomplete';
 export const SITE_TWITTER = 'https://twitter.com/hockeycomp';
 export const SITE_YOUTUBE =

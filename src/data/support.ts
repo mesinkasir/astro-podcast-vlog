@@ -8,7 +8,7 @@ export const dev = '👩🏻‍🚀 Creativitas';
 export const devlink =
   'https://www.fiverr.com/creativitas/create-your-custom-website-and-app';
 export const git = '✨ Github';
-export const gitlink = 'https://github.com/mesinkasir/';
+export const gitlink = 'https://github.com/mesinkasir/astro-podcast-vlog';
 export const power = 'Powered by';
 export const live = 'live codding on';
 export const repo = 'Repo on';
