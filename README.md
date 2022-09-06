@@ -1,6 +1,6 @@
 # Astro 🎤 Podcast Vlog 🎬
 
-This project is still being worked on and under development.
+Run demo 🚀 [https://softwareresto.web.app](https://softwareresto.web.app/)
 
 Simple starter for Vlog 🎬 and 🎤 Podcast website blog
 
@@ -12,6 +12,8 @@ Recipe :
 - SEO
 - Emoji
 
-Develope by [https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll](https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll)
+Run demo 🚀 [https://softwareresto.web.app](https://softwareresto.web.app/)
+
+Develope by 👩🏻‍🚀 [https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll](https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll)
 
 Documentation soon on [https://www.hockeycomputindo.com/2010/12/blog-post.html](https://www.hockeycomputindo.com/2010/12/blog-post.html)
