@@ -14,6 +14,8 @@ Recipe :
 
 Run demo 🚀 [https://softwareresto.web.app](https://softwareresto.web.app/)
 
+Run simple demo 🚀 [https://aplikasiresto.web.app](https://aplikasiresto.web.app/)
+
 Develope by 👩🏻‍🚀 [https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll](https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll)
 
 Documentation ✍️ [https://www.hockeycomputindo.com/2022/09/new-podcast-vlog-web-template-free.html](https://www.hockeycomputindo.com/2022/09/new-podcast-vlog-web-template-free.html)
@@ -28,6 +30,8 @@ a cute and simple display
 ---
 
 Run demo 🚀 [https://softwareresto.web.app](https://softwareresto.web.app/)
+
+Run simple demo 🚀 [https://aplikasiresto.web.app](https://aplikasiresto.web.app/)
 
 Develope by 👩🏻‍🚀 [https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll](https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll)
 
